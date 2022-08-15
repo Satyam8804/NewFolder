@@ -3,5 +3,5 @@ using namespace std;
 int main() {
     int a =10;
     int b = 20;
-    cout<<"a + b = "<<a+b;
+    cout<<"The sum of (a + b)  = "<<a+b;
 }
